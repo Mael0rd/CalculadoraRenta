@@ -1,0 +1,10 @@
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\bin\Debug\CalculadoraSalarialExamen.exe.config
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\bin\Debug\CalculadoraSalarialExamen.exe
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\bin\Debug\CalculadoraSalarialExamen.pdb
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\obj\Debug\CalculadoraSalarialExamen.csproj.AssemblyReference.cache
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\obj\Debug\CalculadoraSalarialExamen.Form1.resources
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\obj\Debug\CalculadoraSalarialExamen.Properties.Resources.resources
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\obj\Debug\CalculadoraSalarialExamen.csproj.GenerateResource.cache
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\obj\Debug\CalculadoraSalarialExamen.csproj.CoreCompileInputs.cache
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\obj\Debug\CalculadoraSalarialExamen.exe
+D:\UTN 2024\Calidad\Examen 1\CalculadoraSalarialExamen\CalculadoraSalarialExamen\obj\Debug\CalculadoraSalarialExamen.pdb
